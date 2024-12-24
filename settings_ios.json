@@ -4,6 +4,7 @@
             "update_url": "https://mg-app.github.io/tv/test.json",
             "title":"ارحم امي التعبانه",
             "text":"انا زهقت منك يلا",
+             "btn_name":"يلا"
             "can_close":"yes",
             "unityGameId_ios":"5321614",
             "unityGameId_android":"4638069",
