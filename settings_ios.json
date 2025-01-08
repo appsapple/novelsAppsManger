@@ -2,9 +2,9 @@
   "setting_data": [ 
            {"force_update": "yes",
             "update_url": "https://mg-app.github.io/tv/test.json",
-            "title":"ارحم امي التعبانه",
-            "text":"انا زهقت منك يلا",
-             "btn_name":"يلا"
+            "title":"إصدار جديد",
+            "text":"لقد قمنا بإضافة مميزات جديده يرجي تحديث التطبيق الآن للاستمتاع بها",
+             "btn_name":"تحديث"
             "can_close":"yes",
             "unityGameId_ios":"5321614",
             "unityGameId_android":"4638069",
