@@ -1,10 +1,10 @@
 {
   "setting_data": [ 
-           {"force_update": "no",
-            "update_url": "https://mg-app.github.io/tv/test.json",
+           {"force_update": "yes",
+            "update_url": "https://apps.apple.com/eg/app/%D9%85%D9%83%D8%AA%D8%A8%D8%AA%D9%8A-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D8%AA/id6503088840",
             "title_main":"تحديث",
             "title":"إصدار جديد",
-            "text":"لقد قمنا بإضافة مميزات جديده للتطبيق يرجي تحديثه الآن",
+            "text":"نحن نعمل علي اصلاح بعض الاخطاء البرمجيةالان يرجي التحديث الي هذا التطبيق موقتا شكرا لتفهمكم",
             "btn_name":"تحديث",
             "can_close":"no",
             "unityGameId_ios":"5675663",
