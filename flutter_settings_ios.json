@@ -6,7 +6,7 @@
             "title":"نعتذر عن وجود بعض الاخطاء في التطبيق ",
             "text":"نحن نعمل علي اصلاح بعض الاخطاء البرمجية الان من اجلكم لتقديم تجربة ممتاز اليك يرجي التحديث الي هذا التطبيق موقتا سوف تجد جميع الروايات التي كنت تقراءه هنا شكرا لتفهمكم",
             "btn_name":"<<الانتقال الي التطبيق الان>>",
-            "can_close":"no",
+            "can_close":"yes",
             "unityGameId_ios":"5675663",
             "unityGameId_android":"4638069",
             "ApplovinKey":"n9f4l69ptTlo_MonLqMntNCWmyN97SrZe1lXvEnW05gkvNZfCaLT_KxvT81Mh1z9C1VpLOT3dEhx5OpDNXXL4o",
