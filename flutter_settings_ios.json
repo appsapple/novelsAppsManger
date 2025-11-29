@@ -1,6 +1,6 @@
 {
   "setting_data": [ 
-           {"force_update": "no",
+           {"force_update": "yes",
             "update_url": "https://apps.apple.com/eg/app/%D9%85%D9%83%D8%AA%D8%A8%D8%AA%D9%8A-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D8%AA/id6503088840",
             "title_main":"!!تنبيه",
             "title":"نعتذر عن وجود بعض الاخطاء في التطبيق ",
