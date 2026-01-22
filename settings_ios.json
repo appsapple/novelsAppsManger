@@ -1,6 +1,6 @@
 {
   "setting_data": [ 
-           {"force_update": "yes",
+           {"force_update": "no",
             "update_url": "https://mg-app.github.io/tv/test.json",
             "title":"إصدار جديد",
             "text":"لقد قمنا بإضافة مميزات جديده يرجي تحديث التطبيق الآن للاستمتاع بها",
